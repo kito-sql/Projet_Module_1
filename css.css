@@ -1,0 +1,194 @@
+.menu ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 20px;
+    
+    
+}
+ul{
+    display:flex;
+    justify-content: flex-end;
+}
+.head_home{
+    color: blueviolet;
+
+    
+}
+.menu {
+    font-weight: 700;
+}
+section {
+    padding:80px;
+    
+}
+
+.aclass{
+    
+    height: 60vh;
+
+    background-color: lightskyblue;
+    
+
+}
+.join{
+    background-color: white;
+    padding: 10px;
+    border: 2px ;
+
+    font-weight: 500;
+    width: auto;
+    
+}
+.join a{
+    text-decoration: none;
+    color: blueviolet;
+}
+.bclass{
+    text-align: center;
+    height: 55vh;
+    align-items: center;
+    justify-content: center;
+    background-color: cyan;
+    padding: 20px;
+    
+    
+}
+.b1class{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+.b2class{
+    background: white;
+    padding: 20px;
+    border:1px solid;
+    border-radius: 8px;
+    width: 120px;
+    text-align: center;
+    margin: 20px;
+    
+    
+}
+.number{
+    margin: 10px;
+    color: blueviolet;
+    font-style: oblique;
+    font-size: 20px;
+}
+.text{
+    margin: 0;
+    font-weight: 700;
+}
+
+.cclass{
+    
+    height: 55vh;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+    font-weight: 500;
+   
+    
+}
+.cclass h1{
+    font-family: sans-serif;
+   font-weight: 900;
+   
+  
+}
+.textc{
+    margin-top: 30px ;
+}
+
+.dclass{
+    
+    height: 50vh;
+    align-items: center;
+    justify-content: center;
+    background-color: lightpink;
+    text-align: center;
+}
+.dclass h1{
+    font-size: 50px;
+    color: white;
+    font-weight: 800;
+    margin-bottom: 100px;
+}
+
+.icons{
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    margin-left: 31%;
+}
+.ins{
+   
+    mix-blend-mode: multiply;
+
+}
+.icon{
+ 
+   mix-blend-mode: multiply;
+   
+   
+   
+}
+.eclass{
+    
+    height: 70vh;
+
+    background-color: lightgreen;
+    
+}
+.eclass h1{
+    font-weight: 800;
+    font-size: 70px;
+}
+.eclass h2{
+    font-weight: 600;
+}
+
+.fclass{
+    height: 55vh;
+    background-color: beige;
+
+}
+.f{
+    text-align: center;
+}
+
+.f img{
+    
+    padding: 30px;
+    mix-blend-mode:multiply;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.phone{
+    display: flex;
+}
+.phone img{
+    padding: 20px;
+}
+
+.mail{
+    display: flex;
+
+}
+
+.mail img{
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.adresse{
+    display: flex;
+
+}
+.adresse img{
+    padding: 10px;
+    margin-right: 20px;
+}
